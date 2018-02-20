@@ -78,9 +78,20 @@ return /******/ (function(modules) { // webpackBootstrap
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
 
-console.log('No js tools so far.');
+"use strict";
+
+Object.defineProperty(exports, "__esModule", { value: true });
+var EColor;
+(function (EColor) {
+    EColor["BLACK_WHITE"] = "BLACK_WHITE";
+    EColor["ORANGE_WHITE"] = "ORANGE_WHITE";
+    EColor["RED_WHITE"] = "RED_WHITE";
+    EColor["GREY_WHITE"] = "GREY_WHITE";
+    EColor["WHITE_BLACK"] = "WHITE_BLACK";
+    EColor["WHITE_RED"] = "WHITE_RED";
+})(EColor = exports.EColor || (exports.EColor = {}));
 
 
 /***/ }),
