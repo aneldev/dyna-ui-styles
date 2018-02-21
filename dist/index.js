@@ -86,6 +86,9 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var EColor;
 (function (EColor) {
     EColor["BLACK_WHITE"] = "BLACK_WHITE";
+    EColor["BLACK_ORANGE"] = "BLACK_ORANGE";
+    EColor["TRANSPARENT_ORANGE"] = "TRANSPARENT_ORANGE";
+    EColor["TRANSPARENT_WHITE"] = "TRANSPARENT_WHITE";
     EColor["ORANGE_WHITE"] = "ORANGE_WHITE";
     EColor["RED_WHITE"] = "RED_WHITE";
     EColor["GREY_WHITE"] = "GREY_WHITE";
