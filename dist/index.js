@@ -94,6 +94,7 @@ var EColor;
     EColor["GREY_WHITE"] = "GREY_WHITE";
     EColor["WHITE_BLACK"] = "WHITE_BLACK";
     EColor["WHITE_RED"] = "WHITE_RED";
+    EColor["WHITE_ORANGE"] = "WHITE_ORANGE";
 })(EColor = exports.EColor || (exports.EColor = {}));
 
 

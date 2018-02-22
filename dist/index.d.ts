@@ -8,4 +8,5 @@ export declare enum EColor {
     GREY_WHITE = "GREY_WHITE",
     WHITE_BLACK = "WHITE_BLACK",
     WHITE_RED = "WHITE_RED",
+    WHITE_ORANGE = "WHITE_ORANGE",
 }
