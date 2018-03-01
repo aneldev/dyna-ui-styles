@@ -2,3 +2,11 @@
 	color: transparent !important;
 	text-shadow: 0 0 @strenth #000;
 }
+
+.hover-effect-pale(@strenth: 0.8, @animation: 250ms) {
+	opacity: 1;
+	transition: opacity @animation ease-in-out;
+	&:hover {
+		opacity: @strenth;
+	}
+}
