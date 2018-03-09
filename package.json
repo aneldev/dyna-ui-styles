@@ -52,7 +52,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^20.0.8",
-    "@types/node": "^7.0.54",
+    "@types/node": "^7.0.56",
     "awesome-typescript-loader": "^3.4.1",
     "babel-core": "6.11.4",
     "babel-loader": "6.0.0",
