@@ -1,5 +1,6 @@
 // physical name convention
 
+@media-mobile-small: 320px;
 @media-mobile: 576px;
 @media-tablet: 768px;
 @media-desktop: 992px;
@@ -7,12 +8,16 @@
 
 // t-shirt name convention
 
+@media-xsmall: 320px;
 @media-small: 576px;
 @media-medium: 768px;
 @media-large: 992px;
 @media-xlarge: 1200px;
 
 // examples
+
+// X-Small devices (landscape phones, 320px and up)
+@media (min-width: @media-mobile-small) { }
 
 // Small devices (landscape phones, 576px and up)
 @media (min-width: @media-mobile) { }
